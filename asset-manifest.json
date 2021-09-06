@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IP-Address-Tracker.git/static/css/main.897abcf8.chunk.css",
-    "main.js": "/IP-Address-Tracker.git/static/js/main.95bc7bb3.chunk.js",
-    "main.js.map": "/IP-Address-Tracker.git/static/js/main.95bc7bb3.chunk.js.map",
-    "runtime-main.js": "/IP-Address-Tracker.git/static/js/runtime-main.0618b11c.js",
-    "runtime-main.js.map": "/IP-Address-Tracker.git/static/js/runtime-main.0618b11c.js.map",
-    "static/js/2.6cddfccf.chunk.js": "/IP-Address-Tracker.git/static/js/2.6cddfccf.chunk.js",
-    "static/js/2.6cddfccf.chunk.js.map": "/IP-Address-Tracker.git/static/js/2.6cddfccf.chunk.js.map",
-    "index.html": "/IP-Address-Tracker.git/index.html",
-    "static/css/main.897abcf8.chunk.css.map": "/IP-Address-Tracker.git/static/css/main.897abcf8.chunk.css.map",
-    "static/js/2.6cddfccf.chunk.js.LICENSE.txt": "/IP-Address-Tracker.git/static/js/2.6cddfccf.chunk.js.LICENSE.txt"
+    "main.css": "/IP-Address-Tracker/static/css/main.897abcf8.chunk.css",
+    "main.js": "/IP-Address-Tracker/static/js/main.73f55501.chunk.js",
+    "main.js.map": "/IP-Address-Tracker/static/js/main.73f55501.chunk.js.map",
+    "runtime-main.js": "/IP-Address-Tracker/static/js/runtime-main.97adf904.js",
+    "runtime-main.js.map": "/IP-Address-Tracker/static/js/runtime-main.97adf904.js.map",
+    "static/js/2.6cddfccf.chunk.js": "/IP-Address-Tracker/static/js/2.6cddfccf.chunk.js",
+    "static/js/2.6cddfccf.chunk.js.map": "/IP-Address-Tracker/static/js/2.6cddfccf.chunk.js.map",
+    "index.html": "/IP-Address-Tracker/index.html",
+    "static/css/main.897abcf8.chunk.css.map": "/IP-Address-Tracker/static/css/main.897abcf8.chunk.css.map",
+    "static/js/2.6cddfccf.chunk.js.LICENSE.txt": "/IP-Address-Tracker/static/js/2.6cddfccf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0618b11c.js",
+    "static/js/runtime-main.97adf904.js",
     "static/js/2.6cddfccf.chunk.js",
     "static/css/main.897abcf8.chunk.css",
-    "static/js/main.95bc7bb3.chunk.js"
+    "static/js/main.73f55501.chunk.js"
   ]
 }
