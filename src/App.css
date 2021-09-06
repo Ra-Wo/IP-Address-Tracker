@@ -1,0 +1,17 @@
+.leaflet-container {
+   height: calc(100vh - 230px);
+   width: 100%;
+}
+
+.alert {
+   position: absolute;
+   top: 130px;
+   left: 10%;
+   right: 10%;
+   background-color: #e52b2b;
+   color: #eee;
+   padding: 10px;
+   border-radius: 12px 12px 0 0;
+   z-index: 3;
+   opacity: 0;
+}
